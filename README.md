@@ -64,7 +64,7 @@ O fluxograma do SDLC está dividido em várias etapas, cada uma com atividades e
 
 ## Visualização do Fluxograma
 
-Para uma visualização detalhada do fluxograma animado, acesse o [fluxograma completo em HTML](./fluxograma_animado.html).
+- Para uma visualização detalhada do fluxograma animado, acesse o [fluxograma completo em HTML](https://quintilianonery.github.io/TestesNoSDLC/fluxograma_animado.html).
 ---
 
 - **Este fluxo foi desenhado para assegurar que o QA participe ativamente em todas as fases do ciclo de desenvolvimento, promovendo a qualidade desde o planejamento até o monitoramento em produção.**
