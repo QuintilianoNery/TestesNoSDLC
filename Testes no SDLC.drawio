@@ -513,9 +513,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FC5Lew2rLfg9KLDbLoG2-6" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Clique para Ampliar&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1391.5" y="808" width="332" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="FC5Lew2rLfg9KLDbLoG2-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="2387" y="878" width="380" height="60" as="geometry" />
         </mxCell>
